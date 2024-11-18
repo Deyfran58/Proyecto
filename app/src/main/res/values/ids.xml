@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnFavoritas" type="id">1</item>
+    <item name="btnDesayuno" type="id">2</item>
+    <item name="categories" type="id" />
+    <item name="LinearLayout" type="id">aa</item>
+</resources>

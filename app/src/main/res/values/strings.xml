@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string name="title_activity_favoritas">FavoritasActivity</string>
+    <string name="title_activity_detalle_receta">DetalleRecetaActivity</string>
+    <string name="buscar_receta">Buscar Receta</string>
+    <string name="buscar_por_ingrediente">Buscar por Ingrediente</string>
+    <string name="desayunos">Desayunos</string>
+    <string name="almuerzos">Almuerzos</string>
+    <string name="cena">Cena</string>
+    <string name="recetas_messirve">RECETAS MESSIRVE</string>
+    <string name="todo">TODO</string>
+    <string name="gallo_pinto">Gallo Pinto</string>
+    <string name="ingredientes_n_arroz_n_frijoles_n_cebolla">Ingredientes:\n- Arroz\n- Frijoles\n- Cebolla</string>
+    <string name="pasos_para_la_preparaci_n_n1_sofre_r_los_ingredientes_n2_agregar_los_frijoles_n3_a_adir_el_arroz">Pasos para la preparación:\n1. Sofreír los ingredientes.\n2. Agregar los frijoles.\n3. Añadir el arroz.</string>
+    <string name="a_adir_nueva_receta">Añadir nueva receta</string>
+    <string name="agregar_nueva_receta">Agregar Nueva Receta</string>
+    <string name="ingredientes_separados_por_comas">Ingredientes (separados por comas)</string>
+    <string name="agregar_imagen">Agregar Imagen</string>
+    <string name="guardar_receta">Guardar Receta</string>
+    <string name="pasos_de_preparaci_n">Pasos de preparación</string>
+    <string name="tiempo_de_cocci_n">Tiempo de cocción</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="nombre_de_la_receta">Nombre de la receta</string>
+    <string name="atras">Atras</string>
+</resources>
